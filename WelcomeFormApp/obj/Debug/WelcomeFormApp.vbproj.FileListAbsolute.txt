@@ -1,0 +1,13 @@
+C:\Users\Dell\Desktop\SoftwareDev\VB_Basics\WelcomeFormApp\bin\Debug\WelcomeFormApp.exe.config
+C:\Users\Dell\Desktop\SoftwareDev\VB_Basics\WelcomeFormApp\bin\Debug\WelcomeFormApp.exe
+C:\Users\Dell\Desktop\SoftwareDev\VB_Basics\WelcomeFormApp\bin\Debug\WelcomeFormApp.pdb
+C:\Users\Dell\Desktop\SoftwareDev\VB_Basics\WelcomeFormApp\bin\Debug\WelcomeFormApp.xml
+C:\Users\Dell\Desktop\SoftwareDev\VB_Basics\WelcomeFormApp\obj\Debug\WelcomeFormApp.vbproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\SoftwareDev\VB_Basics\WelcomeFormApp\obj\Debug\WelcomeFormApp.Form1.resources
+C:\Users\Dell\Desktop\SoftwareDev\VB_Basics\WelcomeFormApp\obj\Debug\WelcomeFormApp.Resources.resources
+C:\Users\Dell\Desktop\SoftwareDev\VB_Basics\WelcomeFormApp\obj\Debug\WelcomeFormApp.vbproj.GenerateResource.cache
+C:\Users\Dell\Desktop\SoftwareDev\VB_Basics\WelcomeFormApp\obj\Debug\WelcomeFormApp.vbproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\SoftwareDev\VB_Basics\WelcomeFormApp\obj\Debug\WelcomeFormApp.exe
+C:\Users\Dell\Desktop\SoftwareDev\VB_Basics\WelcomeFormApp\obj\Debug\WelcomeFormApp.xml
+C:\Users\Dell\Desktop\SoftwareDev\VB_Basics\WelcomeFormApp\obj\Debug\WelcomeFormApp.pdb
+C:\Users\Dell\Desktop\SoftwareDev\VB_Basics\WelcomeFormApp\obj\Debug\WelcomeFormApp.Form2.resources
